@@ -6,7 +6,7 @@ Describe the "Woodhack" Concept, "HowTo" create your own Woodhack and share rece
 
 ## Setup
 
-* Github Page, public available at www.woodhack.de.
+* Github Page, public available at www.woodhack.de, delivered with https://wao.io.
 
 ## More
 
