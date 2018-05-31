@@ -2,4 +2,4 @@
 
 Konzept, Idee und Howto zum Woodhack
 
-Hello World!
+Der nächste Woodhack findet vom 07. bis 09. Juni 2018 statt!
